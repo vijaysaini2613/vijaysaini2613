@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/sainivijay2601" target="blank"><img src="https://img.shields.io/twitter/follow/sainivijay2601?logo=twitter&style=for-the-badge" alt="sainivijay2601" /></a> </p>
 
-- 🔭 I’m currently working on [gesture-controlled-keyboar](https://github.com/vijaysaini2613/gesture-controlled-keyboard)
+- 🔭 I’m currently working on [DeepClean_Neural-Audio-Denoiser](https://github.com/vijaysaini2613/DeepClean_Neural-Audio-Denoiser)
 
 - 🌱 I’m currently learning **advanced deep learning concepts, including neural network architectures, CNNs, RNNs, LSTMs, and model optimization techniques.**
 
